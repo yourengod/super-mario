@@ -1,5 +1,5 @@
 https://www.heywhale.com/mw/notebook/613c8a2301c4c90017f2763a
-
+https://zhuanlan.zhihu.com/p/402519441
 # 强化学习玩超级马里奥
 
 > 欢迎关注B站：https://space.bilibili.com/343147393
